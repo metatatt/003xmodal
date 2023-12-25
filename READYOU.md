@@ -33,3 +33,13 @@ template of the input.tsx
       <option value={p3}>3. check work (Common Defects)<ption>
       <option value={p4}>4. check WO (Document Comliance)</option
        </select>);
+
+4) page layout
+
+        
+        chat-section.tsx
+        <div className="space-y-4 max-w-full w-full">
+
+
+# deployment 
+    for iPAD (Safari): Railway.APP > Vercel
