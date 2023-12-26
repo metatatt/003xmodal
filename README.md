@@ -1,4 +1,4 @@
-# ![alt text](public\ball_wh.png) ISO 13485 Sniffer Series 
+# ![alt text](ball_wh.png) ISO 13485 Sniffer Series 
 
 ```
 -check my desk (Line Clearance)
