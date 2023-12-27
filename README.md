@@ -10,7 +10,7 @@
 -check my paper (common WO mistakes dataset)
 ```
 
-## Support Devices
+## Supported Devices
 - iPAD Mini 6 (Safari)
 - Windows Chrome (ver 120)
 
