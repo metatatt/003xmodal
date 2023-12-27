@@ -37,7 +37,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 -Vercel
 
-## Code Origin
+## Source of Code (and Inspiration)
 ```
 LlamaIndex [`create-llama`](https://github.com/run-llama/LlamaIndexTS/tree/main/packages/create-llama) 
 ``````
